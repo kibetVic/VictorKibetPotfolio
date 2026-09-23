@@ -15,12 +15,11 @@
 
         // ---------- TYPING ANIMATION ----------
         const textArray = [
-            'Software Developer',
+            'Software Developer and Web Designer',
             'ASP.NET Core Developer',
-            'M-Pesa Integration Expert',
-            'USSD Integration',
-            'Database Designer',
-            'Web Designer'
+            'M-Pesa and USSD Integration',
+            'Database Designer And data Analyst',
+            'Public Relations'
         ];
 
         let count = 0;
